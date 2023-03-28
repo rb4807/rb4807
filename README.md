@@ -67,7 +67,7 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 <a href="https://www.linkedin.com/in/rajesh-mbalu" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> 
 <a/>
-<a href="https://instagram.com/https://instagram.com/_._r__b_._" target="blank">
+<a href="https://instagram.com/_._r__b_._" target="blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
  <a/>
  <a href="https://www.facebook.com/rajesh.balasubramanyam.3?mibextid=ZbWKwL" target="blank"> 
