@@ -7,7 +7,9 @@ Web Developer
 Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills.Experienced and gained knowledge in programming,developing, designing and testing codes.Quickly learning and adapting to new technologies.Efficient and honest in working on a team and self-esteemed event
 
 🖥️  See my portfolio at [Visit my portfolio](http://https://rb4807.github.io/rajesh-portfolio/)
+
 🧾  More about Me [Resume](http://drive.google.com/file/d/1hiVmpNNFNKlyFOxdytJ6lcwY8Nzj2L8j/view?usp=drivesdk)
+
 📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibinashraf&label=Profile%20views&color=0e75b6&style=flat" alt="shibinashraf" /> </p>
