@@ -1,4 +1,4 @@
-Hi 👋 I'm is Rajesh Balasubramaniam
+Hi 👋 I'm Rajesh Balasubramaniam
 =======================================
 
 Web Developer
