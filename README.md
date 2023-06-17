@@ -6,7 +6,7 @@ Web Developer
 
 Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills.Experienced and gained knowledge in programming,developing, designing and testing codes.Quickly learning and adapting to new technologies.Efficient and honest in working on a team and self-esteemed event
 
-🖥️  See my portfolio at [Rajesh-portfolio](https://rb4807.github.io/rajesh-portfolio/)
+🖥️  See my portfolio at [Rajesh-portfolio](https://rb4807.github.io/Portfolio-/)
 
 🧾  More about Me [Resume](https://drive.google.com/file/d/1TmltgxVrVlEJihE1Ze6cUWn5uTXx9GVi/view?usp=drivesdk)
 
