@@ -85,7 +85,7 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 <a href="http://www.github.com/rb4807"><img src="" /></a>
 
-<a href="https://github.com/rb4807" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a>
+<a href="https://github.com/rb4807" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 ### 🌐 Socials
  <p>
