@@ -4,7 +4,7 @@ Hi 👋 I'm Rajesh Balasubramaniam
 Web Developer
 -------------
 
-Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills.Experienced and gained knowledge in programming,developing, designing and testing codes.Quickly learning and adapting to new technologies.Efficient and honest in working on a team and self-esteemed event
+Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills. Experienced and gained knowledge in programming, developing, designing and testing codes. Quickly learning and adapting to new technologies. Efficient and honest in working on a team and self-esteemed event
 
 🖥️  See my portfolio at [Rajesh-portfolio](https://rb4807.github.io/Portfolio-/)
 
