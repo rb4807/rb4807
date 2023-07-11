@@ -11,7 +11,6 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 🧾  More about Me [Resume](https://drive.google.com/file/d/1ddtIITz7AZr2DnZRgdNtJ74aVD3XsX7u/view?usp=drivesdk)
 
 📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
-<img align="right" width="400" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rb4807&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh" /> </p>
 
@@ -53,7 +52,9 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 <h3 align="left">Programming Languages:</h3>
 💻 Skills 
+
 <p>
+  <img align="right" width="400" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
