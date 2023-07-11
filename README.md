@@ -23,7 +23,7 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 ●	Completed Internet of Things virtual internship by Novitech.
 
-<h2 align="left">Certifications</h3>
+<h2 align="left">Certification</h3>
 
 ●	Completed Data Visualization:Empowering Business with Effective Insight virtual Course Certification from TCS.
 
@@ -35,11 +35,19 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 ● Completed Web Development Online Certification Course.
 
-●	Completed CSS, Bootstrap, JavaScript, Web Development virtual Course Certification from UDEMY.
-
 ●	Completed React.JS: Front-end The Complete Course for Beginners.
 
 ● Completed Agile Development Methodology Agile Manifesto SCRUM KANBAN from UDEMY.
+
+<h2 align="left">Certification for Industrial Visit</h3>
+
+● Completed Data science,Artificial intelligence and Machine learning Unit from ZEPHYR.
+
+<h2 align="left">Workshop</h3>
+
+● Application of Embedded technologies using Arduino from Study Word College of Engineering.
+
+● DESIGN A LOW COST CANSAT SATELLITE from Nehru Institute of Engineering and Technology.
 
 <h3 align="left">Programming Languages:</h3>
 💻 Skills 
