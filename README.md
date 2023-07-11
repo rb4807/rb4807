@@ -14,6 +14,8 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rb4807&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh" /> </p>
 
+<img align="right" width="400" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif">
+
 
 <h3 align="left">Certifications/Achievements 🥉</h3>
 
@@ -51,12 +53,11 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 <h3 align="left">Programming Languages:</h3>
 💻 Skills 
-<img align="right" width="400" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif">
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -77,15 +78,6 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </p>
 
-
-
-### Badges 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rb4807"><img src="" /></a>
-
-<a href="https://github.com/rb4807" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 ### 🌐 Socials
  <p>
