@@ -6,7 +6,7 @@ Software Developer
 
 Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills. Experienced and gained knowledge in programming, developing, designing and testing codes. Quickly learning and adapting to new technologies. Efficient and honest in working on a team and self-esteemed event
 
-🖥️  See my portfolio at [Rajesh-portfolio](https://rb4807.github.io/Portfolio-/)
+🖥️  See my portfolio at [Rajesh-portfolio](rajeshb.tech)
 
 🧾  More about Me [Resume](https://drive.google.com/file/d/1m_OEDcea2ozea8uIVXC14KLjUHgIvqcX/view?usp=drivesdk)
 
@@ -20,13 +20,11 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 <h2 align="left">Internship</h3>
 
-●	Completed Embedded System virtual internship by LAMS Automation.
-
-●	Completed Internet of Things virtual internship by Novitech.
+● As a Python Full Stack Developer at Luminar Technolab
 
 <h2 align="left">Certification</h3>
 
-●	Completed Data Visualization:Empowering Business with Effective Insight virtual Course Certification from TCS.
+●	Completed Power Programmer Virtual Experience Program from Infosys.
 
 ●	Completed Data Science Tools from IBM.
 
@@ -40,23 +38,12 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 ● Completed Agile Development Methodology Agile Manifesto SCRUM KANBAN from UDEMY.
 
-<h2 align="left">Certification for Industrial Visit</h3>
-
-● Completed Data science,Artificial intelligence and Machine learning Unit from ZEPHYR.
-
-<h2 align="left">Workshop</h3>
-
-● Application of Embedded technologies using Arduino from Study Word College of Engineering.
-
-● DESIGN A LOW COST CANSAT SATELLITE from Nehru Institute of Engineering and Technology.
-
 <h3 align="left">Programming Languages:</h3>
 💻 Skills 
 
 <p>
   <img align="right" width="400" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
