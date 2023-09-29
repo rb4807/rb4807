@@ -1,7 +1,7 @@
 Hi 👋 I'm Rajesh Balasubramaniam
 =======================================
 
-Software Developer
+Python Full Stack Developer
 -------------
 
 Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills. Experienced and gained knowledge in programming, developing, designing and testing codes. Quickly learning and adapting to new technologies. Efficient and honest in working on a team and self-esteemed event
@@ -20,7 +20,7 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 <h2 align="left">Internship</h3>
 
-● As a Python Full Stack Developer at Luminar Technolab
+● As Python Full Stack Developer at Luminar Technolab
 
 <h2 align="left">Certification</h3>
 
