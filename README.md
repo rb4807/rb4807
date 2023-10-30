@@ -6,9 +6,9 @@ Python Full Stack Developer
 
 Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills. Experienced and gained knowledge in programming, developing, designing and testing codes. Quickly learning and adapting to new technologies. Efficient and honest in working on a team and self-esteemed event
 
-🖥️  See my portfolio at [Rajesh-portfolio](rajeshb.tech)
+🖥️  See my portfolio at [Rajesh-portfolio](https://rajeshb.tech/)
 
-🧾  More about Me [Resume](https://drive.google.com/file/d/1m_OEDcea2ozea8uIVXC14KLjUHgIvqcX/view?usp=drivesdk)
+🧾  More about Me [Resume](https://drive.google.com/file/d/1Zv5oQ1Gq9BP4sxR94EPUBXs_PRUu8FCn/view?usp=drivesdk)
 
 📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
 
