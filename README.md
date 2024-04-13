@@ -8,7 +8,7 @@ Dedicated and self-motivated Electronics and Communication Engineering student w
 
 🖥️  See my portfolio at [Rajesh-portfolio](https://rajeshb.tech/)
 
-🧾  More about Me [Resume](https://drive.google.com/file/d/13Pop2yyXkmARkGzNKXM7f295RqfQpYBb/view?usp=drivesdk)
+🧾  More about Me [Resume](https://drive.google.com/file/d/1KDHdBJHfkv-5bdpBbOUZUyADutkyndoQ/view?usp=drivesdk)
 
 📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
 
