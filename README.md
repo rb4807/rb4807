@@ -25,6 +25,9 @@ technology.
 
 
 
+<h3 align="left">Experience 💼</h3>
+● I am presently working as a Software Engineer at DEIENAMI since January 2024.
+
 <h3 align="left">Certifications/Achievements 🥉</h3>
 
 <h2 align="left">Internship</h3>
