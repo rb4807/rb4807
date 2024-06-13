@@ -4,7 +4,16 @@ Hi 👋 I'm Rajesh Balasubramaniam
 Software Engineer
 -------------
 
-Dedicated and self-motivated Electronics and Communication Engineering student with strong analytical skills. Experienced and gained knowledge in programming, developing, designing and testing codes. Quickly learning and adapting to new technologies. Efficient and honest in working on a team and self-esteemed event
+Motivated Anna University engineering graduate with
+a robust skill set encompassing development,
+programming, and problem-solving. Refined my
+abilities during a six-month web tech internship,
+focusing on crafting user-friendly applications.
+Presently excelling as a full-stack engineer, where I
+apply my internship experience to drive innovation in
+software solutions. Passionate about continuously
+evolving and staying updated on the latest trends in
+technology.
 
 🖥️  See my portfolio at [Rajesh-portfolio](https://rajeshb.tech/)
 
