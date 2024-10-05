@@ -15,7 +15,7 @@ software solutions. Passionate about continuously
 evolving and staying updated on the latest trends in
 technology.
 
-🖥️  See my portfolio at [Rajesh-portfolio](https://rajeshb.tech/)
+🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
 
 🧾  More about Me [Resume](https://drive.google.com/file/d/1KDHdBJHfkv-5bdpBbOUZUyADutkyndoQ/view?usp=drivesdk)
 
