@@ -15,6 +15,8 @@ software solutions. Passionate about continuously
 evolving and staying updated on the latest trends in
 technology.
 
+<img align="right" alt="Coding Image" width="400" src="![image](https://github.com/user-attachments/assets/d7fd273d-1817-4090-bd5e-741d07b7819b)">
+
 🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
 
 🧾  More about Me [Resume](https://drive.google.com/file/d/14oxgdh_XhO4jwMk6hYrbUHmj5a3Gtncl/view?usp=drivesdk)
