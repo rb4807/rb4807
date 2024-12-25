@@ -4,18 +4,9 @@ Hi 👋 I'm Rajesh Balasubramaniam
 Software Engineer
 -------------
 
-Motivated Anna University engineering graduate with
-a robust skill set encompassing development,
-programming, and problem-solving. Refined my
-abilities during a six-month web tech internship,
-focusing on crafting user-friendly applications.
-Presently excelling as a full-stack engineer, where I
-apply my internship experience to drive innovation in
-software solutions. Passionate about continuously
-evolving and staying updated on the latest trends in
-technology.
+Proficient Software Engineer with a strong foundation in development, programming and problem-solving. Successfully completed a six-month internship in Python Full Stack Development, where I honed my skills in building robust, user-friendly applications. With one year of professional experience, I specialize in delivering innovative software solutions. Passionate about continuous learning and staying updated with the latest technological advancements
 
-<img align="right" alt="Coding Image" width="400" src="![image](https://github.com/user-attachments/assets/47f7ecb6-55bf-48e2-82b6-0746c3d52bad)">
+<img align="right" alt="Coding Image" width="400" src="https://github.com/user-attachments/assets/47f7ecb6-55bf-48e2-82b6-0746c3d52bad">
 
 🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
 
