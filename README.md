@@ -4,9 +4,10 @@ Hi 👋 I'm Rajesh Balasubramaniam
 Software Engineer
 -------------
 
+<img align="right" alt="Coding Image" width="300" src="https://github.com/user-attachments/assets/47f7ecb6-55bf-48e2-82b6-0746c3d52bad" style="border-radius: 15px; border: 2px solid #ccc;">
+
 Proficient Software Engineer with a strong foundation in development, programming and problem-solving. Successfully completed a six-month internship in Python Full Stack Development, where I honed my skills in building robust, user-friendly applications. With one year of professional experience, I specialize in delivering innovative software solutions. Passionate about continuous learning and staying updated with the latest technological advancements
 
-<img align="right" alt="Coding Image" width="400" src="https://github.com/user-attachments/assets/47f7ecb6-55bf-48e2-82b6-0746c3d52bad">
 
 🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
 
