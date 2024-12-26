@@ -20,10 +20,10 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 
 
-<h3 align="left">Experience 💼</h3>
+<h3 align="left">💼 Experience</h3>
 ● I am presently working as a Software Engineer at DEIENAMI since January 2024.
 
-<h3 align="left">Certifications/Achievements 🥉</h3>
+<h3 align="left">🥉 Certifications/Achievements</h3>
 
 <h4 align="left">Internship</h4>
 
