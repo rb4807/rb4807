@@ -68,7 +68,7 @@ API Integration
 
 <p>
   <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-  <img src="https://img.shields.io/badge/-Axios-05122A?style=flat-square&logo=Axios&color=353535"/>
+  <img src="https://img.shields.io/badge/-Axios-05122A?style=for-the-badge&logo=Axios"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
@@ -117,7 +117,7 @@ DevOps:
 CMS Platforms:
 
 <p>
-  <img src="https://img.shields.io/badge/-Shopify-05122A?style=flat-square&logo=Shopify&color=353535"/>
+  <img src="https://img.shields.io/badge/-Shopify-05122A?style=for-the-badge&logo=Shopify&color=353535"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
 </p>
 
