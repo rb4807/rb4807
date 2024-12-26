@@ -25,11 +25,11 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 <h3 align="left">Certifications/Achievements 🥉</h3>
 
-<h2 align="left">Internship</h3>
+<h4 align="left">Internship</h4>
 
 ● As Python Full Stack Developer at Luminar Technolab
 
-<h2 align="left">Certification</h3>
+<h4 align="left">Certification</h4>
 
 ●	Completed Power Programmer Virtual Experience Program from Infosys.
 
