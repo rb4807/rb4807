@@ -45,8 +45,7 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 ● Completed Agile Development Methodology Agile Manifesto SCRUM KANBAN from UDEMY.
 
-<h3 align="left">Programming Languages:</h3>
-💻 Technical Skills
+<h3 align="left">💻 Technical Skills:</h3>
 
 Languages & Frameworks:
 
