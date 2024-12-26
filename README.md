@@ -56,8 +56,8 @@ Languages & Frameworks:
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/-Gin-05122A?style=for-the-badge&logo=Gin"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -125,6 +125,14 @@ Project Management:
 
 <p>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Microsoft%20Office-05122A?style=for-the-badge&logo=Microsoft-Office&color=353535"/>
+</p>
+
+Operating Systems:
+
+<p>
+  <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows&color=353535"/>
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&color=353535"/>
 </p>
 
 
@@ -133,11 +141,14 @@ Project Management:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JetBrains-05122A?style=for-the-badge&logo=JetBrains&color=353535" />
+  <img src="https://img.shields.io/badge/-Xampp-05122A?style=for-the-badge&logo=Xampp&color=353535" /> 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Termius-05122A?style=for-the-badge&logo=Termius&color=353535"/>
+  <img src="https://img.shields.io/badge/-PuTTY-05122A?style=for-the-badge&logo=PuTTY&color=353535"/>
 </p>
 
   
