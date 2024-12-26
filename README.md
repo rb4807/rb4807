@@ -12,7 +12,7 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
 
-🧾  More about Me [Resume](https://drive.google.com/file/d/14oxgdh_XhO4jwMk6hYrbUHmj5a3Gtncl/view?usp=drivesdk)
+🧾  More about Me [Resume](https://drive.google.com/file/d/1LaJ-mICWgQKFmd3LWHniuiVTuO0qx-Ic/view?usp=drivesdk)
 
 📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
 
