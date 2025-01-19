@@ -86,7 +86,7 @@ Web Technologies
 AI & ML
 
 <p>
-  <img src="https://img.shields.io/badge/-xformers-05122A.svg?style=for-the-badge&logo=xformers&color=white" />
+  <img src="https://img.shields.io/badge/-xformers-05122A.svg?style=for-the-badge&logo=xformers&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
