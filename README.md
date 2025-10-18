@@ -1,7 +1,6 @@
 Hi 👋 I'm Rajesh Balasubramaniam
 =======================================
 
-Software Engineer <br>
 **Product Engineering Software Engineer turning ideas into products**
 -------------
 
