@@ -239,7 +239,7 @@ drwxr-xr-x  ▸  Online    Web Development Certification
 │                                                                  │
 │    "First, solve the problem. Then, write the code."             │
 │                                                                  │
-│         Building scalable backends, one endpoint at a time. 🚀   │
+│     Building scalable backends, one endpoint at a time.          │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
