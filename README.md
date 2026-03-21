@@ -147,12 +147,22 @@ class Engineer:
 ```
 
 <details open>
-<summary><b>⚙️ &nbsp;Software Engineer — DEIENAMI</b></summary>
+<summary><b>⚙️ &nbsp;Software Engineer — Epixel</b></summary>
+<br>
+
+> **Role:** Software Engineer &nbsp;·&nbsp; Full-time<br>
+> **Company:** Epixel<br>
+> **Duration:** `Nov 2025 → Present`<br>
+> **Status:** `● ACTIVE PROCESS`
+
+</details>
+<details open>
+<summary><b>⚙️ &nbsp;Software Solutions Engineer — DEIENAMI</b></summary>
 <br>
 
 > **Role:** Software Engineer &nbsp;·&nbsp; Full-time<br>
 > **Company:** DEIENAMI<br>
-> **Duration:** `Jan 2024 → Present`<br>
+> **Duration:** `Jan 2024 → Nov 2025`<br>
 > **Status:** `● ACTIVE PROCESS`
 
 </details>
