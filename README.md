@@ -137,12 +137,13 @@ class Engineer:
 ## `▸ experience.log()`
 
 ```
-╔════════════════════════════════════════════════════════════════════╗
-║  PID   ROLE                    COMPANY         DURATION    STATUS  ║
-╠════════════════════════════════════════════════════════════════════╣
-║  001   Software Engineer       DEIENAMI        Jan 2024→   ● RUN   ║
-║  002   Python Full Stack Dev   Luminar Labs    Internship  ✓ DONE  ║
-╚════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  PID   ROLE                              COMPANY                TYPE          DURATION               STATUS  ║
+╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
+║  001   Software Engineer                 Epixel Solution        Full-Time     Nov 2025               ● RUN   ║
+║  002   Software Solutions Engineer       DEIENAMI               Full-Time     Jan 2024→ Nov 2025     ✓ DONE  ║
+║  003   Python Full Stack Dev             Luminar TechnoLabs     Internship    Sep 2023→ Mar 2024     ✓ DONE  ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details open>
