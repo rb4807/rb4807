@@ -1,158 +1,158 @@
-Hi 👋 I'm Rajesh Balasubramaniam
-=======================================
+<div align="center">
 
-**Product Engineering Software Engineer turning ideas into products**
--------------
+```
+██████╗  █████╗      ██╗███████╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗     ██║██╔════╝██╔════╝██║  ██║
+██████╔╝███████║     ██║█████╗  ███████╗███████║
+██╔══██╗██╔══██║██   ██║██╔══╝  ╚════██║██╔══██║
+██║  ██║██║  ██║╚█████╔╝███████╗███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" align="right" />
+### `> Backend Engineer & Python API Specialist`
 
-Proficient <b>Software Engineer</b> with <b>1.10+ years of full-stack development experience</b> in <b>Agile</b> and <b>Scrum</b> environments, skilled in <b>RESTful APIs</b>, <b>microservices</b>, <b>API development</b>, and <b>cloud technologies</b>. Strong foundation in <b>Object-Oriented Programming (OOP)</b>, <b>data structures</b>, <b>algorithms</b>, <b>design patterns</b>, and <b>problem-solving</b>, with hands-on experience building <b>scalable</b>, <b>distributed</b>, and <b>fault-tolerant</b> applications. Experienced in <b>ETL</b>, <b>data engineering</b>, <b>asynchronous programming</b>, <b>performance optimization</b>, <b>automation</b>, <b>debugging</b>, <b>CI/CD</b>, <b>SDLC</b>, and <b>testing (unit and integration)</b>. Passionate about <b>Artificial Intelligence (AI)</b>, <b>Machine Learning (ML)</b>, <b>API Gateway</b>, <b>API Management</b>, and delivering <b>innovative</b>, <b>customer-focused solutions</b> while promoting <b>communication</b>, <b>collaboration</b>, <b>leadership</b>, and <b>mentorship</b>.
+```python
+class RajeshBalasubramaniam:
+    role        = "Software Engineer @ DEIENAMI"
+    stack       = ["Python", "FastAPI", "Django", "Go", "REST", "Microservices"]
+    databases   = ["PostgreSQL", "MongoDB", "DynamoDB", "MySQL"]
+    cloud       = ["AWS", "Docker", "Nginx", "CI/CD"]
+    passion     = ["AI/ML", "API Architecture", "Scalable Systems"]
+    status      = "Building things that scale  🚀"
+```
 
-🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://react-portfolio-nu-opal.vercel.app/)
+[![Resume](https://img.shields.io/badge/📄_Resume-1a1a2e?style=for-the-badge)](https://drive.google.com/file/d/1Oq8ploin818NOo4eP3iVnNrVKk7JnupC/view)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh)
+[![Email](https://img.shields.io/badge/rajesh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh@gmail.com)
 
-🧾  More about Me [Resume](https://drive.google.com/file/d/1Oq8ploin818NOo4eP3iVnNrVKk7JnupC/view?usp=drivesdk)
+</div>
 
-📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rb4807&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh" /> </p>
+## `$ whoami`
 
+> Proficient **Software Engineer** with **2.3+ years** of full-stack development experience, specializing in **Python backend systems**, **REST API design**, and **cloud-native microservices**. I architect scalable, fault-tolerant distributed systems and have a deep passion for **AI/ML** and **API Management**.
 
+```bash
+$ uptime --career
+  2.3 years | Agile | Scrum | Distributed Systems | API-first Architecture
+```
 
-<h3 align="left">💼 Experience</h3>
-● I have been working as a Software Engineer at DEIENAMI since January 2024, bringing over <b>a year of experience</b> in software development.
+---
 
-<h3 align="left">🥉 Certifications/Achievements</h3>
+## `$ cat /etc/tech-stack`
 
-<h4 align="left">Internship</h4>
+<details open>
+<summary><b>⚙️ Languages & Frameworks</b></summary>
+<br>
 
-● As Python Full Stack Developer at Luminar Technolab
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-<h4 align="left">Certification</h4>
+</details>
 
-●	Completed Power Programmer Virtual Experience Program from Infosys.
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
 
-●	Completed Data Science Tools from IBM.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-●	Completed Python Backend And Django Framework Course.
+</details>
 
-●	Completed CSS, Bootstrap,JavaScript, Web Development Course.
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
 
-● Completed Web Development Online Certification Course.
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=flat-square&logo=gunicorn&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-●	Completed React.JS: Front-end The Complete Course for Beginners.
+</details>
 
-● Completed Agile Development Methodology Agile Manifesto SCRUM KANBAN from UDEMY.
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
 
-<h3 align="left">💻 Technical Skills:</h3>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
-Languages & Frameworks:
+</details>
 
-<p>
-  <img align="right" width="400" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gin-05122A?style=for-the-badge&logo=Gin"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+<details>
+<summary><b>🔌 API & Integration</b></summary>
+<br>
 
-API Integration
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-web-tokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-  <img src="https://img.shields.io/badge/-Axios-05122A?style=for-the-badge&logo=Axios"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-</p>
+</details>
 
-Web Technologies
+---
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-1572B6?style=for-the-badge&logo=tailwind&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>
+## `$ ps -ef | grep experience`
 
-AI & ML
+```
+PID   ROLE                  COMPANY      DURATION      STATUS
+───   ──────────────────    ────────     ──────────    ─────────────
+001   Software Engineer     DEIENAMI     Jan 2024 →    ✅ RUNNING
+002   Python Full Stack     Luminar      Internship    ✅ COMPLETED
+```
 
-<p>
-  <img src="https://img.shields.io/badge/-TensorFlow-05122A.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-xformers-05122A.svg?style=for-the-badge&logo=xformers&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-stable%20diffusion-05122A.svg?style=for-the-badge&logo=stable-diffusion&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Ollama-05122A.svg?style=for-the-badge&logo=Ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face-05122A.svg?style=for-the-badge&logo=Hugging-Face&logoColor=white" />
-</p>
+---
 
-Databases:
+## `$ ls -la /certifications`
 
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+```
+drwxr-xr-x  Infosys     Power Programmer Virtual Experience Program
+drwxr-xr-x  IBM         Data Science Tools
+drwxr-xr-x  Udemy       Agile | SCRUM | KANBAN Development Methodology
+drwxr-xr-x  Udemy       React.JS — Complete Front-end Course
+drwxr-xr-x  Udemy       Python Backend & Django Framework
+drwxr-xr-x  Udemy       CSS, Bootstrap, JavaScript & Web Development
+drwxr-xr-x  Online      Web Development Certification
+```
 
-DevOps:
+---
 
-<p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+## `$ htop --github-stats`
 
-CMS Platforms:
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/-Shopify-05122A?style=for-the-badge&logo=Shopify&color=353535"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rb4807&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&ring_color=00FF88)
 
-Project Management:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF)
 
-<p>
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Microsoft%20Office-05122A?style=for-the-badge&logo=Microsoft-Office&color=353535"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rb4807&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
 
-Operating Systems:
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/-Windows-05122A?style=for-the-badge&logo=Windows&color=353535"/>
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&color=353535"/>
-</p>
+---
 
-
-  <h3 align="left">Tools I Use:</h3>
-  <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/-JetBrains-05122A?style=for-the-badge&logo=JetBrains&color=353535" />
-  <img src="https://img.shields.io/badge/-Xampp-05122A?style=for-the-badge&logo=Xampp&color=353535" /> 
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Termius-05122A?style=for-the-badge&logo=Termius&color=353535"/>
-  <img src="https://img.shields.io/badge/-PuTTY-05122A?style=for-the-badge&logo=PuTTY&color=353535"/>
-</p>
+## `$ traceroute --contributions`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake-dark.svg" />
@@ -160,15 +160,32 @@ Operating Systems:
   <img alt="github-snake" src="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake.svg" />
 </picture>
 
-### 🌐 Socials
- <p>
-<a href="https://www.linkedin.com/in/rajesh-mbalu" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> 
-<a/>
-<a href="https://instagram.com/_._r__b_._" target="blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
- <a/>
- <a href="https://www.facebook.com/rajesh.balasubramanyam.3?mibextid=ZbWKwL" target="blank"> 
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  <a/>
-   <p/>
+---
+
+## `$ ping -c 1 social-links`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raj)
+[![Facebook](https://img.shields.io/badge/Facebook-Add-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raj)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajesh@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║  "First, solve the problem. Then, write the code."  ║
+║                           — John Johnson             ║
+╚══════════════════════════════════════════════════════╝
+```
+
+**`>> Building scalable backends, one commit at a time.`**
+
+![Profile Views](https://komarev.com/ghpvc/?username=rb4807&style=flat-square&color=00FF88&label=PROFILE+VIEWS)
+
+</div>
