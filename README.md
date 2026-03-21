@@ -1,183 +1,265 @@
+<div align="center">
 
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Syne:wght@400;700;800&display=swap');
-  *{box-sizing:border-box;margin:0;padding:0}
-  .wrap{background:#0a0e17;color:#e2e8f0;font-family:'JetBrains Mono',monospace;padding:0 0 40px 0;min-height:100vh}
-  .hero{background:#0a0e17;padding:48px 32px 32px;border-bottom:1px solid #1e2d40;position:relative;overflow:hidden}
-  .hero-grid{position:absolute;inset:0;opacity:0.07;background-image:linear-gradient(#00d4aa 1px,transparent 1px),linear-gradient(90deg,#00d4aa 1px,transparent 1px);background-size:40px 40px}
-  .hero-accent{position:absolute;top:0;right:0;width:320px;height:320px;background:radial-gradient(circle at 80% 20%,rgba(0,212,170,0.15),transparent 60%);pointer-events:none}
-  .tag-line{font-size:11px;color:#00d4aa;letter-spacing:3px;text-transform:uppercase;margin-bottom:16px;font-family:'JetBrains Mono',monospace}
-  .hero-name{font-family:'Syne',sans-serif;font-size:42px;font-weight:800;color:#fff;line-height:1.1;margin-bottom:6px}
-  .hero-name span{color:#00d4aa}
-  .hero-sub{font-size:13px;color:#64748b;margin-bottom:24px;letter-spacing:1px}
-  .code-intro{background:#0f1923;border:1px solid #1e2d40;border-left:3px solid #00d4aa;border-radius:8px;padding:20px 24px;font-size:12px;line-height:1.9;max-width:560px;position:relative;z-index:1}
-  .code-intro .kw{color:#7c9cbf}.code-intro .cl{color:#e2985c}.code-intro .st{color:#a3e8d0}.code-intro .cm{color:#3d5266}.code-intro .val{color:#d4a0ff}.code-intro .num{color:#f9c74f}
-  .dot-row{display:flex;gap:6px;margin-bottom:14px}
-  .dot{width:10px;height:10px;border-radius:50%}
-  .dot-r{background:#ff5f57}.dot-y{background:#febc2e}.dot-g{background:#28c840}
-  .links{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px;position:relative;z-index:1}
-  .lbtn{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:6px;font-size:11px;font-family:'JetBrains Mono',monospace;letter-spacing:1px;text-decoration:none;border:1px solid #1e3a52;color:#94a3b8;background:#0f1923;transition:all .2s}
-  .lbtn:hover{border-color:#00d4aa;color:#00d4aa}
-  .lbtn.primary{background:#00d4aa;color:#0a0e17;border-color:#00d4aa;font-weight:700}
-  .lbtn.primary:hover{background:#00b899}
+```
+██████╗  █████╗      ██╗███████╗███████╗██╗  ██╗
+██╔══██╗██╔══██╗     ██║██╔════╝██╔════╝██║  ██║
+██████╔╝███████║     ██║█████╗  ███████╗███████║
+██╔══██╗██╔══██║██   ██║██╔══╝  ╚════██║██╔══██║
+██║  ██║██║  ██║╚█████╔╝███████╗███████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-  .section{padding:28px 32px}
-  .section-label{font-size:10px;letter-spacing:3px;color:#00d4aa;text-transform:uppercase;margin-bottom:20px;display:flex;align-items:center;gap:10px}
-  .section-label::after{content:'';flex:1;height:1px;background:#1e2d40}
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Python+API+Specialist;Microservices+%7C+Cloud+%7C+AI%2FML+Builder;2.3%2B+Years+%7C+Scalable+Systems+Architect;FastAPI+%7C+Django+%7C+Go+%7C+AWS" alt="Typing SVG" />
 
-  .skill-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px}
-  .skill-chip{background:#0f1923;border:1px solid #1e2d40;border-radius:6px;padding:10px 12px;font-size:11px;color:#94a3b8;display:flex;align-items:center;gap:8px;transition:all .2s}
-  .skill-chip:hover{border-color:#00d4aa;color:#00d4aa}
-  .skill-chip .dot-s{width:6px;height:6px;border-radius:50%;background:#00d4aa;flex-shrink:0}
-  .skill-chip.hot .dot-s{background:#f9c74f}
-  .skill-chip.ai .dot-s{background:#d4a0ff}
+<br/>
 
-  .stat-row{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:4px}
-  .stat-card{background:#0f1923;border:1px solid #1e2d40;border-radius:8px;padding:16px;text-align:center}
-  .stat-num{font-size:28px;font-weight:700;color:#fff;font-family:'Syne',sans-serif}
-  .stat-num span{color:#00d4aa}
-  .stat-lbl{font-size:10px;color:#3d5266;letter-spacing:2px;margin-top:4px;text-transform:uppercase}
+[![Portfolio](https://img.shields.io/badge/⟶_PORTFOLIO-00d4aa?style=for-the-badge&logoColor=000)](https://react-portfolio-nu-opal.vercel.app/)
+[![Resume](https://img.shields.io/badge/RESUME-0f1923?style=for-the-badge&logo=googledrive&logoColor=00d4aa)](https://drive.google.com/file/d/1Oq8ploin818NOo4eP3iVnNrVKk7JnupC/view)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0f1923?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://www.linkedin.com/in/rajesh)
+[![Gmail](https://img.shields.io/badge/EMAIL-0f1923?style=for-the-badge&logo=gmail&logoColor=00d4aa)](mailto:rajesh@gmail.com)
 
-  .exp-card{background:#0f1923;border:1px solid #1e2d40;border-radius:8px;padding:20px;display:flex;gap:16px;align-items:flex-start;margin-bottom:10px}
-  .exp-icon{width:40px;height:40px;background:#0a1a2e;border:1px solid #00d4aa;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0}
-  .exp-title{font-size:13px;font-weight:700;color:#e2e8f0;font-family:'Syne',sans-serif}
-  .exp-co{font-size:11px;color:#00d4aa;margin-top:2px}
-  .exp-date{font-size:10px;color:#3d5266;margin-top:4px}
-  .exp-badge{display:inline-block;background:#0a1a2e;border:1px solid #1e3a52;border-radius:4px;padding:2px 8px;font-size:10px;color:#94a3b8;margin-top:8px}
+![Profile Views](https://komarev.com/ghpvc/?username=rb4807&style=flat-square&color=00d4aa&label=PROFILE+VIEWS)
 
-  .cert-row{display:grid;grid-template-columns:1fr 1fr;gap:8px}
-  .cert-item{background:#0f1923;border:1px solid #1e2d40;border-radius:6px;padding:12px;font-size:11px;color:#64748b;display:flex;gap:8px;align-items:flex-start}
-  .cert-item .ci{color:#00d4aa;flex-shrink:0}
+</div>
 
-  .footer-bar{background:#0f1923;border-top:1px solid #1e2d40;padding:20px 32px;display:flex;justify-content:space-between;align-items:center;font-size:11px;color:#3d5266}
-  .footer-bar .pulse{display:inline-flex;align-items:center;gap:6px;color:#00d4aa}
-  .pulse-dot{width:6px;height:6px;border-radius:50%;background:#00d4aa;animation:pulse 2s infinite}
-  @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
+---
 
-  .social-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}
-  .sbtn{padding:7px 14px;border-radius:5px;font-size:10px;letter-spacing:1px;border:1px solid #1e2d40;color:#64748b;background:#0f1923;font-family:'JetBrains Mono',monospace}
+```python
+# ╔══════════════════════════════════╗
+# ║   rajesh_balasubramaniam.py      ║
+# ╚══════════════════════════════════╝
 
-  .divider{height:1px;background:#1e2d40;margin:0 32px}
-</style>
+class Engineer:
 
-<div class="wrap">
-  <div class="hero">
-    <div class="hero-grid"></div>
-    <div class="hero-accent"></div>
-    <div class="tag-line">// backend engineer & python api specialist</div>
-    <div class="hero-name">Rajesh<br><span>Balasubramaniam</span></div>
-    <div class="hero-sub">$ uptime --career: 2.3+ yrs · DEIENAMI · Palakkad, Kerala</div>
+    name     = "Rajesh Balasubramaniam"
+    role     = "Software Engineer @ DEIENAMI"
+    location = "Palakkad, Kerala, India 🇮🇳"
+    exp      = "2.3+ years"
 
-    <div class="code-intro">
-      <div class="dot-row"><div class="dot dot-r"></div><div class="dot dot-y"></div><div class="dot dot-g"></div></div>
-      <span class="kw">class</span> <span class="cl">Engineer</span><span style="color:#e2e8f0">:</span><br>
-      &nbsp;&nbsp;<span class="st">role</span> &nbsp;&nbsp;&nbsp;&nbsp;= <span class="val">"Software Engineer @ DEIENAMI"</span><br>
-      &nbsp;&nbsp;<span class="st">exp</span> &nbsp;&nbsp;&nbsp;&nbsp;= <span class="num">2.3</span><span style="color:#e2e8f0"> years</span><br>
-      &nbsp;&nbsp;<span class="st">core</span> &nbsp;&nbsp;&nbsp;= [<span class="val">"Python"</span>, <span class="val">"FastAPI"</span>, <span class="val">"Django"</span>]<br>
-      &nbsp;&nbsp;<span class="st">cloud</span> &nbsp;&nbsp;= [<span class="val">"AWS"</span>, <span class="val">"Docker"</span>, <span class="val">"Nginx"</span>]<br>
-      &nbsp;&nbsp;<span class="st">passion</span> = [<span class="val">"AI/ML"</span>, <span class="val">"API Architecture"</span>]<br>
-      &nbsp;&nbsp;<span class="st">status</span> &nbsp;= <span class="val">"open to opportunities"</span> <span class="cm">🟢</span>
-    </div>
+    core     = ["Python", "FastAPI", "Django", "Go"]
+    cloud    = ["AWS", "Docker", "Nginx", "CI/CD"]
+    db       = ["PostgreSQL", "MongoDB", "DynamoDB"]
+    ai_ml    = ["TensorFlow", "PyTorch", "HuggingFace"]
 
-    <div class="links">
-      <a class="lbtn primary" href="#">⟶ Portfolio</a>
-      <a class="lbtn" href="#">Resume</a>
-      <a class="lbtn" href="#">LinkedIn</a>
-      <a class="lbtn" href="#">rajesh@gmail.com</a>
-    </div>
-  </div>
+    status   = "🟢 Open to opportunities"
 
-  <div class="section">
-    <div class="section-label">stat.overview()</div>
-    <div class="stat-row">
-      <div class="stat-card"><div class="stat-num">2<span>.3+</span></div><div class="stat-lbl">Years Experience</div></div>
-      <div class="stat-card"><div class="stat-num" style="color:#d4a0ff">10<span>+</span></div><div class="stat-lbl">Certifications</div></div>
-      <div class="stat-card"><div class="stat-num" style="color:#f9c74f">∞</div><div class="stat-lbl">Coffee Consumed</div></div>
-    </div>
-  </div>
+    def passion(self):
+        return [
+            "API Architecture & Design",
+            "Scalable Distributed Systems",
+            "AI/ML Engineering",
+            "Microservices Patterns",
+        ]
+```
 
-  <div class="divider"></div>
+---
 
-  <div class="section">
-    <div class="section-label">tech.stack.load()</div>
-    <div style="margin-bottom:14px;font-size:10px;color:#3d5266;letter-spacing:2px">PYTHON · BACKEND · APIs</div>
-    <div class="skill-grid">
-      <div class="skill-chip hot">Python</div>
-      <div class="skill-chip hot">FastAPI</div>
-      <div class="skill-chip hot">Django REST</div>
-      <div class="skill-chip">Go / Gin</div>
-      <div class="skill-chip">Node.js</div>
-      <div class="skill-chip">Express.js</div>
-      <div class="skill-chip">PostgreSQL</div>
-      <div class="skill-chip">MongoDB</div>
-      <div class="skill-chip">DynamoDB</div>
-      <div class="skill-chip">Docker</div>
-      <div class="skill-chip">AWS</div>
-      <div class="skill-chip">Nginx</div>
-    </div>
-    <div style="margin:14px 0 10px;font-size:10px;color:#3d5266;letter-spacing:2px">AI · ML · INTELLIGENCE</div>
-    <div class="skill-grid">
-      <div class="skill-chip ai">TensorFlow</div>
-      <div class="skill-chip ai">PyTorch</div>
-      <div class="skill-chip ai">HuggingFace</div>
-      <div class="skill-chip ai">Ollama</div>
-      <div class="skill-chip ai">Stable Diff.</div>
-      <div class="skill-chip ai">NumPy/Pandas</div>
-    </div>
-  </div>
+## `▸ stat.overview()`
 
-  <div class="divider"></div>
+<div align="center">
 
-  <div class="section">
-    <div class="section-label">experience.log()</div>
-    <div class="exp-card">
-      <div class="exp-icon">⚙</div>
-      <div>
-        <div class="exp-title">Software Engineer</div>
-        <div class="exp-co">DEIENAMI</div>
-        <div class="exp-date">Jan 2024 → Present · Full-time</div>
-        <div class="exp-badge">● ACTIVE PROCESS</div>
-      </div>
-    </div>
-    <div class="exp-card">
-      <div class="exp-icon">🐍</div>
-      <div>
-        <div class="exp-title">Python Full Stack Developer</div>
-        <div class="exp-co">Luminar Technolab</div>
-        <div class="exp-date">Internship · Completed</div>
-        <div class="exp-badge">✓ EXITED</div>
-      </div>
-    </div>
-  </div>
+| 🔢 Experience | 📜 Certifications | 🗄️ Databases | ☁️ Cloud | 🤖 AI / ML |
+|:---:|:---:|:---:|:---:|:---:|
+| **2.3+ Years** | **7+** | **5 Databases** | **AWS · Docker · Nginx** | **TF · PyTorch · HF** |
 
-  <div class="divider"></div>
+</div>
 
-  <div class="section">
-    <div class="section-label">certs.list()</div>
-    <div class="cert-row">
-      <div class="cert-item"><span class="ci">▸</span>Infosys Power Programmer</div>
-      <div class="cert-item"><span class="ci">▸</span>IBM Data Science Tools</div>
-      <div class="cert-item"><span class="ci">▸</span>Agile · SCRUM · KANBAN</div>
-      <div class="cert-item"><span class="ci">▸</span>React.JS Complete Course</div>
-      <div class="cert-item"><span class="ci">▸</span>Python & Django Framework</div>
-      <div class="cert-item"><span class="ci">▸</span>Web Development Cert.</div>
-    </div>
-  </div>
+---
 
-  <div class="divider"></div>
+## `▸ tech.stack.load()`
 
-  <div class="section">
-    <div class="section-label">social.connect()</div>
-    <div class="social-row">
-      <div class="sbtn">LinkedIn</div>
-      <div class="sbtn">Instagram</div>
-      <div class="sbtn">Facebook</div>
-      <div class="sbtn">Gmail</div>
-    </div>
-  </div>
+<details open>
+<summary><b>🐍 Python Backend — Primary Stack</b></summary>
+<br>
 
-  <div class="footer-bar">
-    <span class="pulse"><span class="pulse-dot"></span>Available for work</span>
-    <span>"First solve the problem. Then write the code."</span>
-  </div>
+![Python](https://img.shields.io/badge/Python-0f1923?style=for-the-badge&logo=python&logoColor=00d4aa)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f1923?style=for-the-badge&logo=fastapi&logoColor=00d4aa)
+![Django](https://img.shields.io/badge/Django-0f1923?style=for-the-badge&logo=django&logoColor=00d4aa)
+![DRF](https://img.shields.io/badge/Django_REST-0f1923?style=for-the-badge&logo=django&logoColor=00d4aa)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-0f1923?style=for-the-badge&logo=gunicorn&logoColor=00d4aa)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Languages & Other Frameworks</b></summary>
+<br>
+
+![Go](https://img.shields.io/badge/Go-0f1923?style=for-the-badge&logo=go&logoColor=00d4aa)
+![Gin](https://img.shields.io/badge/Gin-0f1923?style=for-the-badge&logo=go&logoColor=00d4aa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f1923?style=for-the-badge&logo=javascript&logoColor=00d4aa)
+![Node.js](https://img.shields.io/badge/Node.js-0f1923?style=for-the-badge&logo=node.js&logoColor=00d4aa)
+![Java](https://img.shields.io/badge/Java-0f1923?style=for-the-badge&logo=openjdk&logoColor=00d4aa)
+![React](https://img.shields.io/badge/React-0f1923?style=for-the-badge&logo=react&logoColor=00d4aa)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Storage</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1923?style=for-the-badge&logo=postgresql&logoColor=00d4aa)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=for-the-badge&logo=mongodb&logoColor=00d4aa)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0f1923?style=for-the-badge&logo=amazondynamodb&logoColor=00d4aa)
+![MySQL](https://img.shields.io/badge/MySQL-0f1923?style=for-the-badge&logo=mysql&logoColor=00d4aa)
+![SQLite](https://img.shields.io/badge/SQLite-0f1923?style=for-the-badge&logo=sqlite&logoColor=00d4aa)
+
+</details>
+
+<details open>
+<summary><b>☁️ DevOps & Cloud</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-0f1923?style=for-the-badge&logo=amazonaws&logoColor=00d4aa)
+![Docker](https://img.shields.io/badge/Docker-0f1923?style=for-the-badge&logo=docker&logoColor=00d4aa)
+![Nginx](https://img.shields.io/badge/Nginx-0f1923?style=for-the-badge&logo=nginx&logoColor=00d4aa)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-0f1923?style=for-the-badge&logo=githubactions&logoColor=00d4aa)
+![Vercel](https://img.shields.io/badge/Vercel-0f1923?style=for-the-badge&logo=vercel&logoColor=00d4aa)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI · ML · LLM Engineering</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f1923?style=for-the-badge&logo=tensorflow&logoColor=d4a0ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f1923?style=for-the-badge&logo=pytorch&logoColor=d4a0ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f1923?style=for-the-badge&logo=huggingface&logoColor=d4a0ff)
+![Ollama](https://img.shields.io/badge/Ollama-0f1923?style=for-the-badge&logoColor=d4a0ff)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-0f1923?style=for-the-badge&logoColor=d4a0ff)
+![NumPy](https://img.shields.io/badge/NumPy-0f1923?style=for-the-badge&logo=numpy&logoColor=d4a0ff)
+![Pandas](https://img.shields.io/badge/Pandas-0f1923?style=for-the-badge&logo=pandas&logoColor=d4a0ff)
+
+</details>
+
+<details>
+<summary><b>🔌 API Design & Integration</b></summary>
+<br>
+
+![REST](https://img.shields.io/badge/REST_APIs-0f1923?style=for-the-badge&logoColor=00d4aa)
+![JWT](https://img.shields.io/badge/JWT-0f1923?style=for-the-badge&logo=jsonwebtokens&logoColor=00d4aa)
+![Swagger](https://img.shields.io/badge/Swagger-0f1923?style=for-the-badge&logo=swagger&logoColor=00d4aa)
+![Postman](https://img.shields.io/badge/Postman-0f1923?style=for-the-badge&logo=postman&logoColor=00d4aa)
+
+</details>
+
+---
+
+## `▸ experience.log()`
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║  PID   ROLE                    COMPANY         DURATION    STATUS  ║
+╠════════════════════════════════════════════════════════════════════╣
+║  001   Software Engineer       DEIENAMI        Jan 2024→   ● RUN   ║
+║  002   Python Full Stack Dev   Luminar Labs    Internship  ✓ DONE  ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<details open>
+<summary><b>⚙️ &nbsp;Software Engineer — DEIENAMI</b></summary>
+<br>
+
+> **Role:** Software Engineer &nbsp;·&nbsp; Full-time<br>
+> **Company:** DEIENAMI<br>
+> **Duration:** `Jan 2024 → Present`<br>
+> **Status:** `● ACTIVE PROCESS`
+
+</details>
+
+<details open>
+<summary><b>🐍 &nbsp;Python Full Stack Developer — Luminar Technolab</b></summary>
+<br>
+
+> **Role:** Python Full Stack Developer<br>
+> **Company:** Luminar Technolab<br>
+> **Duration:** `Internship`<br>
+> **Status:** `✓ EXITED`
+
+</details>
+
+---
+
+## `▸ github.stats()`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rb4807&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00d4aa&text_color=8892b0&ring_color=00d4aa" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&text_color=8892b0" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rb4807&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4aa&ring=00d4aa&fire=f9c74f&currStreakLabel=00d4aa" />
+
+</div>
+
+---
+
+## `▸ contributions.trace()`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+## `▸ certs.list()`
+
+```bash
+$ ls -la ~/certifications/
+
+drwxr-xr-x  ▸  Infosys   Power Programmer Virtual Experience Program
+drwxr-xr-x  ▸  IBM       Data Science Tools
+drwxr-xr-x  ▸  Udemy     Agile Development · SCRUM · KANBAN
+drwxr-xr-x  ▸  Udemy     React.JS — Complete Front-end for Beginners
+drwxr-xr-x  ▸  Udemy     Python Backend & Django Framework
+drwxr-xr-x  ▸  Udemy     CSS · Bootstrap · JavaScript · Web Dev
+drwxr-xr-x  ▸  Online    Web Development Certification
+```
+
+<div align="center">
+
+| &nbsp; | Certification | Provider |
+|:---:|:---|:---:|
+| ▸ | Power Programmer Virtual Experience | Infosys |
+| ▸ | Data Science Tools | IBM |
+| ▸ | Agile Development · SCRUM · KANBAN | Udemy |
+| ▸ | React.JS — Complete Front-end | Udemy |
+| ▸ | Python Backend & Django Framework | Udemy |
+| ▸ | CSS · Bootstrap · JS · Web Dev | Udemy |
+| ▸ | Web Development Certification | Online |
+
+</div>
+
+---
+
+## `▸ social.connect()`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1923?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://www.linkedin.com/in/rajesh)
+[![Instagram](https://img.shields.io/badge/Instagram-0f1923?style=for-the-badge&logo=instagram&logoColor=00d4aa)](https://instagram.com/raj)
+[![Facebook](https://img.shields.io/badge/Facebook-0f1923?style=for-the-badge&logo=facebook&logoColor=00d4aa)](https://www.facebook.com/raj)
+[![Gmail](https://img.shields.io/badge/Gmail-0f1923?style=for-the-badge&logo=gmail&logoColor=00d4aa)](mailto:rajesh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/⟶_PORTFOLIO-00d4aa?style=for-the-badge&logoColor=0f1923)](https://react-portfolio-nu-opal.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│    "First, solve the problem. Then, write the code."             │
+│                                                                  │
+│         Building scalable backends, one endpoint at a time. 🚀   │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+**`● AVAILABLE FOR WORK`** &nbsp;·&nbsp; **`⟶ Let's build something great`**
+
 </div>
