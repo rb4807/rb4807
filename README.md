@@ -213,9 +213,8 @@ drwxr-xr-x  ▸  Online    Web Development Certification
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1923?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://www.linkedin.com/in/rajesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1923?style=for-the-badge&logo=linkedin&logoColor=00d4aa)](https://www.linkedin.com/in/rajesh-mbalu/)
 [![Instagram](https://img.shields.io/badge/Instagram-0f1923?style=for-the-badge&logo=instagram&logoColor=00d4aa)](https://instagram.com/raj)
-[![Facebook](https://img.shields.io/badge/Facebook-0f1923?style=for-the-badge&logo=facebook&logoColor=00d4aa)](https://www.facebook.com/raj)
 [![Gmail](https://img.shields.io/badge/Gmail-0f1923?style=for-the-badge&logo=gmail&logoColor=00d4aa)](mailto:rajesh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/⟶_PORTFOLIO-00d4aa?style=for-the-badge&logoColor=0f1923)](https://react-portfolio-nu-opal.vercel.app/)
 
