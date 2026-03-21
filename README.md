@@ -163,7 +163,7 @@ class Engineer:
 > **Role:** Software Engineer &nbsp;·&nbsp; Full-time<br>
 > **Company:** DEIENAMI<br>
 > **Duration:** `Jan 2024 → Nov 2025`<br>
-> **Status:** `● ACTIVE PROCESS`
+> **Status:** `✓ EXITED`
 
 </details>
 
