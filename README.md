@@ -1,27 +1,10 @@
-<div align="center">
+# Rajesh Balasubramaniam
 
-<h1>Rajesh Balasubramaniam</h1>
+**Software Engineer @ Epixel Solution** · Palakkad, Kerala, India
 
-<p>
-  <code>Software Engineer @ Epixel Solution</code> &nbsp;&middot;&nbsp;
-  <code>Palakkad, Kerala, India</code>
-</p>
+Backend Engineer · Distributed Systems · AI/ML Builder · 2.4+ Years
 
-<p>
-  Backend Engineer &nbsp;&middot;&nbsp;
-  Distributed Systems &nbsp;&middot;&nbsp;
-  AI/ML Builder &nbsp;&middot;&nbsp;
-  2.4+ Years
-</p>
-
-<p>
-  <a href="https://react-portfolio-nu-opal.vercel.app/">Portfolio</a> &nbsp;&middot;&nbsp;
-  <a href="https://drive.google.com/file/d/1Oq8ploin818NOo4eP3iVnNrVKk7JnupC/view">Resume</a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/in/rajesh-mbalu/">LinkedIn</a> &nbsp;&middot;&nbsp;
-  <a href="mailto:rajesh@gmail.com">Email</a>
-</p>
-
-</div>
+[Portfolio](https://react-portfolio-nu-opal.vercel.app/) · [Resume](https://drive.google.com/file/d/1Oq8ploin818NOo4eP3iVnNrVKk7JnupC/view) · [LinkedIn](https://www.linkedin.com/in/rajesh-mbalu/) · [Email](mailto:rajesh@gmail.com)
 
 ---
 
@@ -80,20 +63,18 @@ class Engineer:
 ## Experience
 
 ```
-Role                            Company               Type          Duration
------------------------------------------------------------------------------------------------
-Software Engineer               Epixel Solution       Full-time     Nov 2025 -> Present   [ACTIVE]
-Software Solutions Engineer     DEIENAMI              Full-time     Jan 2024 -> Nov 2025
-Python Full Stack Developer     Luminar Technolab     Internship    Sep 2023 -> Mar 2024
+Role                             Company              Type         Duration
+─────────────────────────────────────────────────────────────────────────────────
+Software Engineer                Epixel Solution      Full-time    Nov 2025 -> Present
+Software Solutions Engineer      DEIENAMI             Full-time    Jan 2024 -> Nov 2025
+Python Full Stack Developer      Luminar Technolab    Internship   Sep 2023 -> Mar 2024
 ```
 
 ---
 
 ## Certifications
 
-```bash
-$ ls ~/certifications/
-
+```
 Infosys   Power Programmer Virtual Experience Program
 IBM       Data Science Tools
 Udemy     Agile Development · SCRUM · KANBAN
@@ -107,33 +88,19 @@ Online    Web Development Certification
 
 ## GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rb4807&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00d4aa&text_color=8892b0&ring_color=00d4aa)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&text_color=8892b0)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rb4807&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&icon_color=00d4aa&text_color=8892b0&ring_color=00d4aa" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rb4807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4aa&text_color=8892b0" />
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rb4807&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4aa&ring=00d4aa&fire=f9c74f&currStreakLabel=00d4aa" />
-
-</div>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rb4807&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4aa&ring=00d4aa&fire=f9c74f&currStreakLabel=00d4aa)
 
 ---
 
 ## Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake-dark.svg" />
-</picture>
+![Snake](https://raw.githubusercontent.com/rb4807/rb4807/output/github-snake-dark.svg)
 
 ---
 
-<div align="center">
-
 *"First, solve the problem. Then, write the code."*
 
-**`AVAILABLE FOR WORK`** &nbsp;&middot;&nbsp; Building scalable backends, one endpoint at a time.
-
-</div>
+**AVAILABLE FOR WORK** — Building scalable backends, one endpoint at a time.
