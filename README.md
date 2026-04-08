@@ -25,6 +25,7 @@ class Engineer:
 
     name     = "Rajesh Balasubramaniam"
     role     = "Software Engineer @ Epixel Solution"
+    tagline = "Turning Ideas into Products"
     location = "Palakkad, Kerala, India 🇮🇳"
     exp      = "2.4+ years"
 
