@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Backend+Architect;Microservices+%7C+Cloud+%7C+AI%2FML+Builder;2.3%2B+Years+%7C+Scalable+Systems+Architect;FastAPI+%7C+Django+%7C+Go+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Backend+Architect;Microservices+%7C+Cloud+%7C+AI%2FML+Builder;2.4%2B+Years+%7C+Scalable+Systems+Architect;FastAPI+%7C+Django+%7C+Go+%7C+AWS" alt="Typing SVG" />
 
 <br/>
 
@@ -26,7 +26,7 @@ class Engineer:
     name     = "Rajesh Balasubramaniam"
     role     = "Software Engineer @ Epixel Solution"
     location = "Palakkad, Kerala, India 🇮🇳"
-    exp      = "2.3+ years"
+    exp      = "2.4+ years"
 
     core     = ["Python", "FastAPI", "Django", "Go"]
     cloud    = ["AWS", "Docker", "Nginx", "CI/CD"]
