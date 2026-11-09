@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Backend+Architect;Microservices+%7C+Cloud+%7C+AI%2FML+Builder;2.11%2B+Years+%7C+Scalable+Systems+Architect;FastAPI+%7C+Django+%7C+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Backend+Architect;Microservices+%7C+Cloud+%7C+AI%2FML+Builder;2.11%2B+Years+%7C+Scalable+Systems+Architect;FastAPI+%7C+Django+%7C+AWS" alt="Typing SVG" />
 
 <br/>
 
