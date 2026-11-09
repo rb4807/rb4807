@@ -25,7 +25,7 @@ class Engineer:
     role     = "Software Engineer @ Epixel Solution"
     tagline  = "Turning Ideas into Products"
     location = "Palakkad, Kerala, India 🇮🇳"
-    exp      = "2.8+ years"
+    exp      = "2.11+ years"
 
     core     = ["Python", "FastAPI", "Django", "Go"]
     cloud    = ["AWS", "Docker", "Nginx", "CI/CD"]
