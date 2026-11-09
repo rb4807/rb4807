@@ -49,7 +49,7 @@ class Engineer:
 
 | 🔢 Experience | 📜 Certifications | 🗄️ Databases | ☁️ Cloud | 🤖 AI / ML |
 |:---:|:---:|:---:|:---:|:---:|
-| **2.8+ Years** | **7+** | **5 Databases** | **AWS · Docker · Nginx** | **TF · PyTorch · HF** |
+| **2.11+ Years** | **7+** | **5 Databases** | **AWS · Docker · Nginx** | **TF · PyTorch · HF** |
 
 </div>
 
